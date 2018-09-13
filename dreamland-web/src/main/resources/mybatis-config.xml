@@ -24,7 +24,7 @@
             <property name="mappers" value="tk.mybatis.mapper.common.Mapper"/>
         </plugin>
         <!-- 自定义分页插件 -->
-        <!--   <plugin interceptor="sea.dreamland.www.common.PageHelper"></plugin>-->
+           <plugin interceptor="sea.dreamland.www.common.PageHelper"></plugin>
 
     </plugins>
 </configuration>
